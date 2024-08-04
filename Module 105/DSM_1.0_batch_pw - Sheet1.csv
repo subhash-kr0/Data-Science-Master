@@ -1,0 +1,48 @@
+SOURCE DIRECTORY,,,,,,,,,
+S No,Date,Topic Name,Temp recording Link,Directory Link,External references and links shared in class,Assignment,Status,,
+1,16 Sep 2023,Introduction to NLP & NLP End to end pipeline,"https://us06web.zoom.us/rec/share/zTe3Zz-TkYd4hhyO1cyNnJ49GABv5I3MYvnPJ5rwLGkN_4C3-3-9WkAs2BJALI8I.ikIsrmFnIOwBMD8m
+
+Passcode:d3v%cMH!",https://drive.google.com/drive/folders/1nHbyImGBGVXqSs5OF-ZvOv-NEZt0NaE4?usp=sharing,,Write a small blog post on NLP Intro which covered in the session. Discuss each and evenry aspect of NLP & its problem & finaly post it on Linkedin & tag me as well.,Done,All Notes: https://drive.google.com/drive/folders/1nHZFRk_r8eq2TJLhl2kVi3M-yw1VzKzD?usp=sharing,"Assignment Submition:
+
+Subject: DSM_1.0_PW_NLP_Assignment
+
+to: boktiar@ineuron.ai
+cc: query@ineuron.ai
+
+Share the URL of Github"
+2,17 Sep 2023,Text Preprocessing & text representation/Word embeddings,"https://us06web.zoom.us/rec/share/O2axy4oMOOQxc-wWo7lVjXfJIjjeOtjLYXoi8uQu5mdOk72dWuvSiaQCBDvHs_Ma.s1ykiMjJQepwnCMJ
+
+Passcode:wKTz0&+^",https://drive.google.com/drive/folders/1l5VHL3Zy-WNTa7rWBEKnc0zbv3Yv-peR?usp=sharing,,Use Twitter data & perform text proprocessing & BOW,Done,,
+3,23 Sep 2023,"TFIDF, Word2Vec & Text Classification using ML","https://us06web.zoom.us/rec/share/8v3YP55UOpnf139yUYCm8FBnQ42OcXbU5IqN1nmxlx1Ung7WgiZ1iLaGURC_yvXd.dSJwXsFAyi3vprOl
+
+Passcode:s=7AdB^6",https://drive.google.com/drive/folders/1r5u7gurFxWww7ne3ArGGL1jxlyvQ4qNw?usp=sharing,,Apply on twitter data,Done,"If you wish to connect then here are my profiles -
+
+Linkedin - https://www.linkedin.com/in/boktiarahmed73/
+Youtube -  https://www.youtube.com/dswithbappy
+GitHub - https://github.com/entbappy",
+4,24 Sep 2023,RNN Introduction & Sequencial Learning,"https://us06web.zoom.us/rec/share/kU8UpT4_XpOgfDyoYeL3FFJGJrtwiuZ2lGLxV2btaXO0F2lw0dcXuocZFJZGM-g4.ZRL1wY408nf4fp8X
+
+Passcode:%V&qVv2q",https://drive.google.com/drive/folders/1h9IxyThuM4Pt4DKU6Xf_QhVnV9Bu_E5t?usp=sharing,https://text2data.com/Demo,Build sentiment analysis app using IMDB data,Done,,
+5,28 Sep 2023,"LSTM, GRU & Text classification Project","https://us06web.zoom.us/rec/share/RNAcCMqisuMDd6i5yCWFj6DzoLLGhijgfbBabn4rx6mWqwlBIiEgR2_D-4j2CXw_.iKzhCl5zF2k7fL_0
+
+Passcode:czP0?E5=",https://drive.google.com/drive/folders/1BQsijd6939ixUMMJD8VOLK0-JvY-sLvS?usp=sharing,,Build sentiment analysis app using IMDB data use LSTM,Done,,
+6,30 Sep 2023,"Sequence to Sequence Learning, Encoder & Decoder Intuition","https://us06web.zoom.us/rec/share/YzcL_INLSwt9hRaSJE1DPQg4wT519DUt-kc_BjfJsIi3UipCk6x928RUoGUT-8g6.85wrrO7YBm_sAjER
+
+Passcode:j?!q7NX3",https://drive.google.com/drive/folders/1hH6cP0-H-dLF1Hgw3GHzZZWlsZM4zCSD?usp=sharing,"1. Paper: https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf
+2. Keras blog: https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html",Build transilator for english to Hindi using Encoder & Decoder,Done,,
+7,1 Oct 2023,Attention Models Architecture & mechanism,"https://us06web.zoom.us/rec/share/J9J4qaMALTZrMPrsTwoFVUNg81cPmFAJQnbFT1OaOYWPnUMMiCV9xx8BKP1AZZq1.-YVRJNJNIiSz_mnD
+
+Passcode:Oyh0p+q^",https://drive.google.com/drive/folders/1VT8swD5JWwyUu-R8KJUz5Gbr0RCClJdF?usp=sharing,"How to Read a Paper: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+",,Done,,
+8,4 Oct 2023,Transformers Indepth Architecture Understanding,"https://us06web.zoom.us/rec/share/KjwRLU7nDYPRrO7DFcmks98VMTUhCjsSPFdw1hN2TdTXwRVOMZ8G62x6sFk9KL16.TJIG9wtP7bMvJYmh
+
+Passcode:6=Uih&#v",https://drive.google.com/drive/folders/15eV00mPP9GKTpuItEw7gqQj8am90YioE?usp=sharing,"1. Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+2. Blog: http://jalammar.github.io/illustrated-transformer/",,Done,,
+9,5 Oct 2023,Chatbot project using LLM model OpenAI API,"https://us06web.zoom.us/rec/share/cAHsuWgqhFkLwaBBvdLSW01Q1FCYMQ-YEZPe55P1AQI6Bx5ybCQrTv1TXfWVZlIh.hCdXFoclqFPytjoS
+
+Passcode:iPt@hu8#",https://github.com/entbappy/telebot_GPT_3.5_Turbo_DSM_1.0,,,Done,,
+10,9 Oct 2023,Text Summarizer Project,,https://drive.google.com/drive/folders/1XM60BvE0JYqMnhQFvKD3JmPi5l1m9g2m?usp=sharing,https://youtu.be/p7V4Aa7qEpw?si=HlgBmuV6N42pQeuB,,Done,,
+11,12 Oct 2023,Name Entity Recognization (NER) Project,,https://drive.google.com/drive/folders/1rXUxa5zy7NQ-HOt-ogE7y9Bkbs3TYE6n?usp=sharing,Annotation Tool: https://tecoholic.github.io/ner-annotator/,,Done,,
+12,17 Oct 2023,Language Transilator & Code Generation Project ,,https://drive.google.com/drive/folders/1jcXiOZLj-VId0KUB3TVgT93Fmy8ZJi7a?usp=sharing,,,Done,,
+13,18 Oct 2023,Question Answer Project Using Transformer BERT,,https://drive.google.com/drive/folders/1BHmXHdn8asQwT-hijo29b6Zc__EvJGeL?usp=share_link,,,Done,,
