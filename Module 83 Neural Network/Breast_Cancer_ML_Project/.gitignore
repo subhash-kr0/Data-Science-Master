@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+project.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache and temporary files
+*.bak
+*.swp
+*.tmp
+*.temp
+.DS_Store
+*.~*
+
+# Machine learning artifacts
+artifacts/
+*.pkl
+*.joblib
+*.h5
+
+# Data files
+data/
+*.csv
+*.tsv
+*.zip
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+*.env
